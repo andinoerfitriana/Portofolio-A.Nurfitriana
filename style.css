@@ -72,13 +72,16 @@ section::before {
 .about::before {
     content: 'About';
 }
-
-.work::before {
-    content: 'Work'
+.Education::before {
+    content: 'Education'
 }
 
 .portofolio::before {
-    content: 'portofolio'
+    content: 'Portofolio'
+}
+
+.Contact::before {
+    content: 'contact'
 }
 
 .work-img {
