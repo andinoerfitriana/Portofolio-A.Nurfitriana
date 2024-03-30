@@ -76,8 +76,8 @@ section::before {
     content: 'Education'
 }
 
-.portofolio::before {
-    content: 'Portofolio'
+.projects::before {
+    content: 'Projects'
 }
 
 .Contact::before {
